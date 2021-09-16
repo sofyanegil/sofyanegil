@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Laravel and Flutter
 - 💞️ I’m looking to collaborate on 
-- 📫 Reach me on instagram.com/sofyanegi
+- 📫 Reach me on https://bio.fm/sofyanegil/
 
 <!---
 sofyanegil/sofyanegil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
