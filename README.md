@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Sofyan Egi.
 
-An Learner to become Junior Software Engineer who loves to build and share projects about web. I've Enjoyed JavaScript for main language to creating a project
+A Learner to become Junior Software Engineer who loves to build and share projects about web. I've Enjoyed JavaScript for main language to creating a project
 
 - 🔭 I’m currently Student on <a href="https://www.instagram.com/informatikaunpas/">@TeknikinformatikaUnpas</a>
 - 🌱 I’m currently learning about web technology
