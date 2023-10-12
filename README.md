@@ -2,10 +2,10 @@
 
 A Learner to become Junior Software Engineer who loves to build and share projects about web. I've Enjoyed JavaScript for main language to creating a project
 
-- 🔭 I’m currently Student on <a href="https://www.instagram.com/informatikaunpas/">@TeknikinformatikaUnpas</a>
-- 🌱 I’m currently learning about web technology
+- 🔭 I’m Fresh Graduate from <a href="https://www.instagram.com/informatikaunpas/">@TeknikinformatikaUnpas</a>
+- 🌱 I’m currently focus on Web Development
 - 📫 How to reach me: contact.sofyan@gmail.com
-- ⚡ Fun fact: Love Learning
+- ⚡ Fun fact: Love Learning new things
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
